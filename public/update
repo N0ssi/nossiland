@@ -21,10 +21,8 @@
 
     <nav>
     <ul>
-      <li><a href="index.html">Home</a></li>
-      <li><a href="update.html">Update</a></li>
-      <li><a href="contact.asp">Contact</a></li>
-      <li><a href="about.asp">About</a></li>
+      <li>6/7/25 - Navbar/Update page added</li>
+      <li>6/7/25 - Website creation</li>
     </ul> 
     </nav>
 
