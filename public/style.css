@@ -19,3 +19,20 @@ li {
   line-height: 2;
   letter-spacing: 1px;
 }
+
+nav {
+  background: black;
+  padding: 1rem;
+}
+
+nav ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: space-around;
+}
+
+nav ul li {
+  display: inline;
+}
