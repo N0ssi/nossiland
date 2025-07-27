@@ -2,9 +2,12 @@ p {
 	color: black;
 }
 
+.title {
+    text-align: center;
+}
+
 h1 {
   font-size: 60px;
-  text-align: center;
 }
 
 ul {
@@ -35,4 +38,25 @@ nav ul{
 
 nav ul li {
   display: inline;
+}
+
+/*  stile a 3 colonne */
+
+/* container */
+.responsive-three-column-grid {
+    display:block;
+}
+
+/* columns */
+.responsive-three-column-grid > * {
+    padding:1rem;
+}
+
+/* tablet breakpoint */
+@media (min-width:768px) {
+    .responsive-three-column-grid {
+        display: grid;
+        grid-auto-rows: 1fr;
+        grid-template-columns: 1fr 1fr 1fr;
+    }
 }
