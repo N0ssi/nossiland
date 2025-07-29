@@ -1,10 +1,11 @@
 const template = document.createElement('titolo');
 
 template.innerHTML = `
-        <img src="nossiland.png" href="index.html">
-            <p class="title">Nostalgic <b>bastard</b> :)</p>
+    <body background="background.png">
+    <img src="nossiland.png" href="index.html">
+    <p class="title">Nostalgic <b>bastard</b> :)</p>
 
-      <nav>
+    <nav>
     <ul>
       <li><a href="update.html">Update</a></li>
       <li><a href="contact.asp">Fun and ames</a></li>
