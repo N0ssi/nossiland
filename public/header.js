@@ -1,4 +1,4 @@
-const template = document.createElement('titolo');
+const template = document.createElement('header');
 
 template.innerHTML = `
     <img src="nossiland.png" href="index.html">
@@ -16,4 +16,4 @@ template.innerHTML = `
 
 `;
 
-document.body.appendChild(titolo.content);
+document.body.appendChild(header.content);
