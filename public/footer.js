@@ -1,12 +1,7 @@
-const template = document.createElement('footer');
+const footer = document.createElement('footer');
 
-template.innerHTML = `
-  <p class="footer">
-  since 2025 :)
-  </p>
-
-
-
+footer.innerHTML = `
+  <p class="footer">since 2025 :)</p>
 `;
 
-document.body.appendChild(footer.content);
+document.body.append(footer);
