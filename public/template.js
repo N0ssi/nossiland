@@ -1,7 +1,6 @@
 const template = document.createElement('titolo');
 
 template.innerHTML = `
-    <body background="background.png">
     <img src="nossiland.png" href="index.html">
     <p class="title">Nostalgic <b>bastard</b> :)</p>
 
