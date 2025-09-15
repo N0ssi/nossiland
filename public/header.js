@@ -1,7 +1,7 @@
 const header = document.createElement('header');
 
 header.innerHTML = `
-  <a href="index.html">
+  <a id="logo"  href="index.html">
     <img src="nossiland.png" alt="Nossiland logo">
   </a>
   <p class="title">Nostalgic <b>bastard</b> :)</p>
