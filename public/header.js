@@ -7,7 +7,7 @@ header.innerHTML = `
   <p class="title">Nostalgic <b>bastard</b> :)</p>
   <nav>
     <ul>
-      <li><a href="magi.asp">MAGI</a></li>
+      <li><a href="magi.html">MAGI</a></li>
       <li><a href="about.asp">Muzack</a></li>
         <li><a href="update.html">Chronology :)</a></li>
 
