@@ -1,0 +1,13 @@
+site:
+  title: Nossiland
+  description: where i go to post
+  url: cool.blog
+  authorName: cool person
+  authorUrl: https://coolperson.com/
+  authorEmail: contact@coolperson.com
+  dateFormat: YYYY-MM-DD
+  sortPostsAscending: true
+contentDefaults:
+  title: cool untitled page
+  template: default.html
+  draft: false
