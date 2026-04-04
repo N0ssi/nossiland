@@ -1,7 +1,6 @@
-# Welcome to my site
+# Nossiland
 
-### This is fancy
+## Navbar
+- [Content1](?content1)
+- [Content2](?content2)
 
-This is written in markdown
-
-Check out [this markdown page](?test)
