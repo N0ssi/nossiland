@@ -1,6 +1,6 @@
-#Nossiland
+# Nossiland
 
-## Navbar
+# Navbar
 - [MarkdownCheatSheet](?mdSheet)
 - [ManiacsPatchPerDisperatiENon](?maniacs)
 - [Magi-Kindheitsgechtichte](?magi)
