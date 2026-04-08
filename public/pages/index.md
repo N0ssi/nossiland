@@ -1,10 +1,10 @@
 # Nossiland
 
-# Navbar
-    - [MarkdownCheatSheet](?mdSheet)
-    - [ManiacsPatchPerDisperatiENon](?maniacs)
-    - [Magi-Kindheitsgechtichte](?magi)
-    - [TechnoKarl](?blob1)
+## Navbar
+  - [MarkdownCheatSheet](?mdSheet)
+  - [ManiacsPatchPerDisperatiENon](?maniacs)
+  - [Magi-Kindheitsgechtichte](?magi)
+  - [TechnoKarl](?blob1)
 
 
 ### Whoami
