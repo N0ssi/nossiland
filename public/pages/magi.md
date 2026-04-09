@@ -6,8 +6,7 @@
 - [Magi-Kindheitsgechtichte](?magi)
 - [TechnoKarl](?blob1)
 
-### Il gioco
-            
+### Il gioco           
       Magi - Kindheitsgechtichte (letteralmente "Racconti
       d'infanzia") è un gioco punta e clicca con influenze
       JRPG che ricostruisce l'episodio biblico dei Re Magi 
