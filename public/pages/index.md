@@ -1,4 +1,4 @@
-# Nossiland
+# [Nossiland](?index)
 
 ## Navbar
   - [MarkdownCheatSheet](?mdSheet)
@@ -15,6 +15,11 @@
     tipica di coloro che hanno effettivamente visto abbastanza 
     e, non essendovi ancora abituati per qualche strano malanno     
     dell'animo, continuano a rimanere con l'amaro in bocca.
+
+> S.L. Philippovnic
+> Che stanchezza che giace 
+> in un giorno d'inverno...
+
 
 ### Credits
     gordonnl.github.io/markdown-blog-template

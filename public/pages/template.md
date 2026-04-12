@@ -1,4 +1,4 @@
-# Nossiland
+# [Nossiland](?index)
 
 ## Navbar
 - [MarkdownCheatSheet](?mdSheet)
@@ -8,7 +8,7 @@
 
 
 ## Credits
-gordonnl.github.io/markdown-blog-template
+    gordonnl.github.io/markdown-blog-template
 
 
 

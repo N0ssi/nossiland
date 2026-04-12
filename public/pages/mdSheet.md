@@ -1,4 +1,4 @@
-# Nossiland
+# [Nossiland](?index)
 
 ## Navbar
 - [MarkdownCheatSheet](?mdSheet)
@@ -13,17 +13,15 @@
   #### 4  
   ##### 5 
   ###### 6  
-  ####### 7 
-  ######## 8
 
 ## Altri 
   **grassetto**
-        **grassetto**
+      ** parola **
 
   *italico*
-      **italico**\
+      * italico *
 
 ## Credits
-gordonnl.github.io/markdown-blog-template
+    gordonnl.github.io/markdown-blog-template
 
 
