@@ -10,7 +10,7 @@
 ### Whoami
     Talvolta capita nella vita d'un uomo di sentirsi persi, 
     non come un giovane ancora alla ricerca del proprio 
-    posto del mondo, confuso da tutto ciò che ancora non 
+    posto nel mondo, confuso da tutto ciò che ancora non 
     ha mai visto, bensì un tipo di desolatezza più conscia, 
     tipica di coloro che hanno effettivamente visto abbastanza 
     e, non essendovi ancora abituati per qualche strano malanno     
